@@ -9,4 +9,4 @@ set relativenumber
 set showmatch
 set encoding=utf-8
 set fileformat=unix
-colorscheme onedark
+colorscheme # onedark/gruvbox/dracula
