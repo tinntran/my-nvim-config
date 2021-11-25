@@ -22,8 +22,6 @@ Plug 'voldikss/vim-floaterm'
 
 Plug 'ryanoasis/vim-devicons'
 
-Plug 'cohama/lexima.vim'
-
 Plug 'maxmellon/vim-jsx-pretty'
 
 " Initialize plugin system
