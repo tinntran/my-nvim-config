@@ -10,6 +10,7 @@ Plug 'joshdick/onedark.vim'
 Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'morhetz/gruvbox'
 Plug 'dikiaap/minimalist'
+Plug 'NLKNguyen/papercolor-theme'
 
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
