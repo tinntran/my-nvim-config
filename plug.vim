@@ -10,7 +10,7 @@ Plug 'joshdick/onedark.vim'
 Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'morhetz/gruvbox'
 Plug 'dikiaap/minimalist'
-Plug 'NLKNguyen/papercolor-theme'
+Plug 'doums/darcula'
 
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
@@ -18,10 +18,9 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 Plug 'preservim/nerdtree'
-
 Plug 'voldikss/vim-floaterm'
-
 Plug 'ryanoasis/vim-devicons'
+Plug 'jiangmiao/auto-pairs'
 
 Plug 'maxmellon/vim-jsx-pretty'
 
