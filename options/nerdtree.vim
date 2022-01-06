@@ -2,9 +2,7 @@ let g:NERDTreeDirArrowExpandable = '▸'
 let g:NERDTreeDirArrowCollapsible = '▾'
 
 nnoremap <F2> :NERDTreeToggle <CR>
-nnoremap <C-F2> :NERDTreeRefreshRoot <CR>
+nnoremap <S-R> :NERDTreeRefreshRoot <CR>
+
 let g:NERDTreeDirArrowExpandable = '▸'
 let g:NERDTreeDirArrowCollapsible = '▾'
-
-nnoremap <F2> :NERDTreeToggle <CR>
-nnoremap <s-F2> :NERDTreeRefreshRoot <CR>
