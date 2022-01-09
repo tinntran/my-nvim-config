@@ -10,4 +10,4 @@ set number
 set showmatch
 set encoding=utf-8
 set fileformat=unix
-colorscheme desert
+colorscheme onedark 
