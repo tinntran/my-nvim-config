@@ -1,7 +1,7 @@
-source $HOME/Appdata\Local/nvim/plug.vim
-source $HOME/Appdata\Local/nvim/options/nerdtree.vim
-source $HOME/Appdata\Local/nvim/options/floaterm.vim
-source $HOME/Appdata\Local/nvim/options/airlines.vim
+source $HOME/.config/nvim/plug.vim
+source $HOME/.config/nvim/options/nerdtree.vim
+source $HOME/.config/nvim/options/floaterm.vim
+source $HOME/.config/nvim/options/airlines.vim
 
 set tabstop=2
 set shiftwidth=2
