@@ -20,7 +20,8 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'preservim/nerdtree'
 Plug 'voldikss/vim-floaterm'
 Plug 'ryanoasis/vim-devicons'
-Plug 'jiangmiao/auto-pairs'
+" Plug 'jiangmiao/auto-pairs' -> Sometimes it's really annoying!
+Plug 'norcalli/nvim-colorizer.lua'
 
 Plug 'maxmellon/vim-jsx-pretty'
 
