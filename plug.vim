@@ -20,10 +20,12 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'preservim/nerdtree'
 Plug 'voldikss/vim-floaterm'
 Plug 'ryanoasis/vim-devicons'
-" Plug 'jiangmiao/auto-pairs' -> Sometimes it's really annoying!
 Plug 'norcalli/nvim-colorizer.lua'
+Plug 'ervandew/supertab'
+Plug 'prettier/vim-prettier', { 'do': 'npm install' , 'branch' : 'release/1.x' }
 
-Plug 'maxmellon/vim-jsx-pretty'
+
+" Plug 'jiangmiao/auto-pairs' -> Sometimes it's really annoying!
 
 " Initialize plugin system
 call plug#end()
